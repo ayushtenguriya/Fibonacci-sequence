@@ -11,7 +11,7 @@ class Largest_Number {
             System.out.println("A is greater among them");
         }
         else if(b>a&&b>c){
-            System.out.println("C is greater among them");
+            System.out.println("B is greater among them");
         }
         else 
         System.out.println("C is greater among them");
